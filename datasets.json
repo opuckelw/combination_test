@@ -1,0 +1,17 @@
+[
+    {
+        "id": "pbmc3k",
+        "name": "pbmc3k",
+        "url": "pbmc3k/pbmc3k.jsonl"
+        }
+    {
+        "id": "Fasciola_spatial",
+        "name": "Fasciola spatial transcriptomics",
+        "url": "fasciola_spatial/fasciola_spatial.jsonl"
+    }
+
+  
+]
+
+
+
